@@ -5,17 +5,17 @@ Welcome to my GitHub profile! I am passionate about software development, AI tec
 ### 🚀 About Me
 - 🌱 **Currently Learning:** AI & Vibe Coding 🤖
 - 🤔 **Looking for help with:** Mentoring and advanced system architecture
-- 💬 **Ask me about:** Books 📚 (Always up for a good read!)
+- 💬 **Ask me about:** Books 📚 ,Coffee
 - ⚡ **Fun fact:** Spending my free time playing PlayStation 🎮
 
 ---
 
 ### 📬 Connect with Me
-- 💼 **LinkedIn:** [Your LinkedIn Profile URL Here]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/bryan31yna/
 - 🐙 **GitHub:** [github.com/yannaingaung31](https://github.com/yannaingaung31)
 
 ---
 
 ### 🛠️ My Tech Environment
-- **OS:** macOS & Linux
-- **Focus:** Automation, AI Interfaces, and Clean Code
+- **OS:** macOS 
+- **Focus:**  AI Interfaces, Blockchain ,Crypto
