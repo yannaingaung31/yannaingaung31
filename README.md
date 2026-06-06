@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Mentoring
 - 💬 Ask me about Books
-- 📫 How to reach me: 
+- 📫 How to reach me: Linkedin
 - 😄 Pronouns: Bryan
 - ⚡ Fun fact: Playing Playstation
 -->
