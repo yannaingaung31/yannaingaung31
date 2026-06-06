@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Bryan (Yan Naing Aung) 👋
 
-<!--
-**yannaingaung31/yannaingaung31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am passionate about software development, AI technology, and exploring new tech stacks.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 **Currently Learning:** AI & Vibe Coding 🤖
+- 🤔 **Looking for help with:** Mentoring and advanced system architecture
+- 💬 **Ask me about:** Books 📚 (Always up for a good read!)
+- ⚡ **Fun fact:** Spending my free time playing PlayStation 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning AI & Vibe Coding 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Mentoring
-- 💬 Ask me about Books
-- 📫 How to reach me: Linkedin
-- 😄 Pronouns: Bryan
-- ⚡ Fun fact: Playing Playstation
--->
+---
+
+### 📬 Connect with Me
+- 💼 **LinkedIn:** [Your LinkedIn Profile URL Here]
+- 🐙 **GitHub:** [github.com/yannaingaung31](https://github.com/yannaingaung31)
+
+---
+
+### 🛠️ My Tech Environment
+- **OS:** macOS & Linux
+- **Focus:** Automation, AI Interfaces, and Clean Code
